@@ -83,21 +83,21 @@ Then open:
 
 http://localhost:8501
 
-📦 requirements.txt
+## 📦 requirements.txt
 ```bash
 streamlit
 pandas
 textblob
 scikit-learn
 ```
-📊 Example Metrics Output
+## 📊 Example Metrics Output
 {
   "Average NPS": 8.2,
   "Positive %": 65.0,
   "Negative %": 12.0
 }
 
-🧠 Recommendation Logic
+## 🧠 Recommendation Logic
 
 High negative sentiment → Improve customer support
 
@@ -105,7 +105,7 @@ Low NPS → Focus on service quality
 
 Healthy feedback → Maintain current strategy
 
-🌟 Unique / Creative Enhancements
+## 🌟 Unique / Creative Enhancements
 
 Session-based respondent tracking
 
@@ -115,7 +115,7 @@ Modular design (easy to extend)
 
 Ready for deployment (Streamlit Cloud / Render)
 
-🔮 Future Enhancements
+##🔮 Future Enhancements
 
 Authentication & user login
 
@@ -127,11 +127,11 @@ Email follow-ups
 
 AI-powered summarization (LLMs)
 
-📌 Use Cases
+## 📌 Use Cases
 
 Customer feedback systems
 
-Product surveys
+Surveys for project
 
 SaaS NPS tracking
 
