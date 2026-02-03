@@ -84,11 +84,12 @@ Then open:
 http://localhost:8501
 
 📦 requirements.txt
+```bash
 streamlit
 pandas
 textblob
 scikit-learn
-
+```
 📊 Example Metrics Output
 {
   "Average NPS": 8.2,
