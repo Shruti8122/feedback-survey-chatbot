@@ -1,4 +1,4 @@
-# 💬 AI-Powered Feedback Survey Chatbot
+# 💬 Feedback Survey Chatbot
 
 An interactive **Streamlit-based feedback survey chatbot** that collects structured and unstructured user feedback, performs **sentiment analysis**, computes **business metrics (NPS, CSAT)**, and generates **actionable recommendations** — all in real time.
 
@@ -115,7 +115,7 @@ Modular design (easy to extend)
 
 Ready for deployment (Streamlit Cloud / Render)
 
-##🔮 Future Enhancements
+## 🔮 Future Enhancements
 
 Authentication & user login
 
